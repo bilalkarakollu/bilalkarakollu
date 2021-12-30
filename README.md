@@ -108,9 +108,6 @@
              alt="visual-studio-code">
     </a>
 </p>
-<br>
-<br>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c56fc553c8a67f9dcf7a2ed6791700237e00c93e5bd8279301e7116c1f748b34/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f6465726d6f746865722e636f6465726d6f74686572"><img src="https://camo.githubusercontent.com/c56fc553c8a67f9dcf7a2ed6791700237e00c93e5bd8279301e7116c1f748b34/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f6465726d6f746865722e636f6465726d6f74686572" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=bilalkarakollu.bilalkarakollu" style="max-width: 100%;"></a></p>
 
 <!--
 **bilalkarakollu/bilalkarakollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
