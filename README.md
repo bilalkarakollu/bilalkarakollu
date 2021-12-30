@@ -15,19 +15,102 @@
 
 <h3>Languages and Tools:</h3>
 
-<p dir="auto"><a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" title="HTML5" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4" rel="nofollow"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4" rel="nofollow"><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B" rel="nofollow"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0" rel="nofollow"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width: 100%;"></a></p>
-
+<p dir="auto">
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+       target="_blank" title="react">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+             alt="react">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+       target="_blank" title="javascript">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+             alt="javascript">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+       target="_blank" title="php">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+             alt="php">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+       target="_blank" title="html">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+             alt="html">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+       target="_blank" title="css">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+             alt="css">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+       target="_blank" title="sass">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+             alt="scss">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+       target="_blank" title="nodejs">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+             alt="nodejs">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+       target="_blank" title="mysql">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+             alt="mysql">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+       target="_blank" title="bootstrap">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+             alt="bootstrap">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+       target="_blank" title="git">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+             alt="git">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+       target="_blank" title="github">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+             alt="github">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+       target="_blank" title="terminal">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+             alt="terminal">
+    </a>
+    <a rel="nofollow"
+       href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+       target="_blank" title="visual-studio-code">
+        <img align="left" width="40px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+             alt="visual-studio-code">
+    </a>
+</p>
+<br>
+<br>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c56fc553c8a67f9dcf7a2ed6791700237e00c93e5bd8279301e7116c1f748b34/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f6465726d6f746865722e636f6465726d6f74686572"><img src="https://camo.githubusercontent.com/c56fc553c8a67f9dcf7a2ed6791700237e00c93e5bd8279301e7116c1f748b34/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f6465726d6f746865722e636f6465726d6f74686572" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=bilalkarakollu.bilalkarakollu" style="max-width: 100%;"></a></p>
 
 <!--
 **bilalkarakollu/bilalkarakollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
