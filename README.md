@@ -20,107 +20,92 @@
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
        target="_blank" title="react">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
              alt="react">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
        target="_blank" title="javascript">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
              alt="javascript">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
        target="_blank" title="php">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
              alt="php">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
        target="_blank" title="html">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
              alt="html">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
        target="_blank" title="css">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
              alt="css">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
        target="_blank" title="sass">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
              alt="scss">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
        target="_blank" title="nodejs">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
              alt="nodejs">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
        target="_blank" title="mysql">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
              alt="mysql">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
        target="_blank" title="bootstrap">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
              alt="bootstrap">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
        target="_blank" title="git">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
              alt="git">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
        target="_blank" title="github">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
              alt="github">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
        target="_blank" title="terminal">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
              alt="terminal">
     </a>
     <a rel="nofollow"
        href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
        target="_blank" title="visual-studio-code">
-        <img align="left" width="40px" style="max-width: 100%;"
+        <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
              alt="visual-studio-code">
     </a>
 </p>
-
-<!--
-**bilalkarakollu/bilalkarakollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
