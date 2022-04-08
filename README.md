@@ -1,5 +1,10 @@
+---
 ### Hi there 👋. I'm Bilal
-
+#### A Software Developer in living in Turkey.
+---
+##### For more about me
+- https://bilalkarakollu.com/
+---
 <h3>Connect with me:</h3>
 
 
@@ -11,9 +16,9 @@
 <a href="https://instagram.com/bilalkarakollu" target="_blank" rel="nofollow"><img align="left" alt="bilalkarakollu | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"></a></p>
 
 
-
 <br>
 
+---
 <h3>Languages and Tools:</h3>
 
 <p dir="auto">
