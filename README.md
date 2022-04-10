@@ -1,4 +1,6 @@
 ---
+ <img align="right" width="400px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a193223349b3988e06df21980e6ce13235543e25&rid=giphy.gif&ct=g"/>
+ 
 ### Hi there 👋. I'm Bilal
 #### A Software Developer in living in Turkey.
 ---
