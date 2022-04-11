@@ -31,11 +31,17 @@
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
              alt="react-redux">
  <img align="left" width="26px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+             alt="typescript">
+ <img align="left" width="26px" style="max-width: 100%;"
              src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC_400x400.jpg"
              alt="material-ui">
  <img align="left" width="26px" style="max-width: 100%;"
              src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
              alt="chakra-ui">
+ <img align="left" width="26px" style="max-width: 100%;"
+             src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"
+             alt="next-js">
     <img align="left" width="26px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
              alt="javascript">
