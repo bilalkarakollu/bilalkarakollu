@@ -87,4 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&show_icons=true&locale=en" alt="bilalkarakollu" width="50%" /></p><br />
 <br />
 #### Profile views counter
+
 ![Visitor Count](https://profile-counter.glitch.me/bilalkarakollu/count.svg)
