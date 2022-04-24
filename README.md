@@ -40,8 +40,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-141a20.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-![Bilal Karakollu's github stats](https://github-readme-stats.vercel.app/api?username=bilalkarakollu&count_private=true&theme=onedark&show_icons=true&include_all_commits=true)&nbsp; 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=5&hide=html,shell)](https://github.com/bilalkarakollu/github-readme-stats) 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&count_private=true&theme=onedark&show_icons=true&include_all_commits=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=5&hide=html,shell"/></td>
+  </tr>
+</table>
 
 ### <p align="right">![Visitor Count](https://profile-counter.glitch.me/bilalkarakollu/count.svg)</p>
