@@ -1,5 +1,4 @@
 ## Hi there 👋
-#### A Software Developer in living in Turkey.
 ##### For more about me
 - https://bilalkarakollu.com/
 - https://www.hackerrank.com/bilalkarakollu
