@@ -24,62 +24,27 @@
 ---
 <h3>Languages and Tools:</h3>
 
-<p dir="auto">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-             alt="react">
- <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
-             alt="react-redux">
- <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-             alt="typescript">
-  <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-             alt="styled-components">
- <img align="left" width="26px" style="max-width: 100%;"
-             src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC_400x400.jpg"
-             alt="material-ui">
- <img align="left" width="26px" style="max-width: 100%;"
-             src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
-             alt="chakra-ui">
- <img align="left" width="26px" style="max-width: 100%;"
-             src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"
-             alt="next-js">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-             alt="javascript">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
-             alt="php">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-             alt="html">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-             alt="css">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-             alt="scss">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-             alt="nodejs">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-             alt="mysql">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-             alt="bootstrap">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-             alt="git">
-    <img align="left" width="26px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-             alt="github">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
-<br />
-<br />
+![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
+![JavasSript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
+![react](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=orange)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
+![graphql](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql&logoColor=E00097)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=Firebase&logoColor=FCDC00)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styledComponents&logoColor=white)&nbsp;
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Chakra-UI](https://img.shields.io/badge/Chakra--ui-38B2AC?style=flat&logo=chakra-ui&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 
 ---
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalkarakollu" alt="bilalkarakollu" /></a></p>
