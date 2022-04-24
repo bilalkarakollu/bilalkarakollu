@@ -1,8 +1,5 @@
 ## Hi there 👋
-##### For more about me
-- https://bilalkarakollu.com/
-- https://www.hackerrank.com/bilalkarakollu
----
+
 <h3>Connect with me:</h3>
 
 [![linkedin](https://img.shields.io/badge/-bilalkarakollu-141a20?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalkarakollu)
