@@ -1,4 +1,3 @@
----
 ## Hi there 👋
 #### A Software Developer in living in Turkey.
 ---
@@ -12,8 +11,6 @@
 [![YouTube](https://img.shields.io/badge/bilalkarakollu-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbrNk0s89ZcBWo2xk4mrC-A)
 [![BilalKarakollu](https://img.shields.io/badge/bilalkarakollu.com-9A0089?style=flat&logo=GoogleChrome&logoColor=white)](https://bilalkarakollu.com/)
 [![gmail](https://img.shields.io/badge/-karakollubilal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:karakollubilal@gmail.com)
-
-<br>
 
 ---
 <h3>Languages and Tools:</h3>
@@ -44,8 +41,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-![Bilal Karakollu's github stats](https://github-readme-stats.vercel.app/api?username=bilalkarakollu&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
+![Bilal Karakollu's github stats](https://github-readme-stats.vercel.app/api?username=bilalkarakollu&count_private=true&theme=onedark&show_icons=true&include_all_commits=true)&nbsp; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=radical&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)](https://github.com/bilalkarakollu/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=5&hide=html,shell)](https://github.com/bilalkarakollu/github-readme-stats) 
 
 ### <p align="right">![Visitor Count](https://profile-counter.glitch.me/bilalkarakollu/count.svg)</p>
