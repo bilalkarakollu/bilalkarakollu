@@ -8,18 +8,18 @@
 
 #### 🍬 &nbsp; Connect with me &nbsp;
 
-[![linkedin](https://img.shields.io/badge/-bilalkarakollu-3F4B55?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalkarakollu)&nbsp;
-[![gmail](https://img.shields.io/badge/-karakollubilal@gmail.com-3F4B55?style=flat&logo=Gmail&logoColor=white)](mailto:karakollubilal@gmail.com)&nbsp;
+[![linkedin](https://img.shields.io/badge/-bilalkarakollu-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalkarakollu)&nbsp;
+[![gmail](https://img.shields.io/badge/-karakollubilal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:karakollubilal@gmail.com)&nbsp;
 
 #### 🛠️ &nbsp; Tech Stack &nbsp;
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3F4B55?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-3F4B55.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![react](https://img.shields.io/badge/-React-3F4B55?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![next.js](https://img.shields.io/badge/-Next.js-3F4B55?style=flat&logo=next.js&logoColor=black)&nbsp;
-![Ether.js](https://img.shields.io/badge/Ether.js-3F4B55?style=flat&logo=Ethereum&logoColor=3C3C3D)&nbsp;
+![next.js](https://img.shields.io/badge/-Next.js-3F4B55?style=flat&logo=next.js&logoColor=white)&nbsp;
+![Ether.js](https://img.shields.io/badge/Ether.js-3F4B55?style=flat&logo=Ethereum&logoColor=white)&nbsp;
 ![React_Native](https://img.shields.io/badge/React_Native-3F4B55?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-3F4B55?style=flat&logo=redux&logoColor=%23593d88)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-3F4B55?style=flat&logo=redux&logoColor=e200c8)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-3F4B55?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-3F4B55?style=flat&logo=mysql&logoColor=orange)&nbsp;
@@ -29,14 +29,14 @@
 ![graphql](https://img.shields.io/badge/-GraphQL-3F4B55?style=flat&logo=graphql&logoColor=E00097)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-3F4B55?style=flat&logo=Firebase&logoColor=FCDC00)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-Styled--Components-3F4B55?style=flat&logo=styledComponents&logoColor=DB7093)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-3F4B55?style=flat&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3F4B55?style=flat&logo=bootstrap&logoColor=e200c8)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-3F4B55.svg?style=flat&logo=mui&logoColor=%230081CB)&nbsp;
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-3F4B55?style=flat&logo=tailwind-css&logoColor=%2338B2AC)&nbsp;
 ![Chakra-UI](https://img.shields.io/badge/Chakra--ui-3F4B55?style=flat&logo=chakra-ui&logoColor=%234ED1C5)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-3F4B55?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-3F4B55?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-3F4B55?style=flat&logo=git)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-3F4B55.svg?style=flat&logo=vercel&logoColor=%23000000)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-3F4B55.svg?style=flat&logo=vercel&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3F4B55.svg?style=flat&logo=visual-studio-code&logoColor=0078d7)&nbsp;
 
 #### 🔍 &nbsp; GitHub Analytics
