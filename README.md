@@ -40,7 +40,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3F4B55.svg?style=flat&logo=visual-studio-code&logoColor=0078d7)&nbsp;
 
 #### 🔍 &nbsp; GitHub Analytics
-<img height="120" align="left" src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&theme=onedark&show_icons=true&count_private=true&include_all_commits=true">
+<img height="120" align="left" src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&theme=onedark&show_icons=true">
 
 <img height="120" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=5&hide=html,shell">
 
