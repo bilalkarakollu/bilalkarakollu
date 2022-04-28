@@ -42,5 +42,5 @@
 #### 🔍 &nbsp; GitHub Analytics
 <img height="120" align="left" src="https://github-readme-stats.vercel.app/api?username=bilalkarakollu&theme=onedark&show_icons=true">
 
-<img height="120" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=5&hide=html,shell">
+<img height="120" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkarakollu&layout=compact&theme=onedark&count_private=true&langs_count=6&hide=html,shell">
 
